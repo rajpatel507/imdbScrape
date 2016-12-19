@@ -1,0 +1,15 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Experiment with node to scrap website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jsdom": "^9.9.1"
+  }
+}
