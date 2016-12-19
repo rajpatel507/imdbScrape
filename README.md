@@ -5,7 +5,7 @@
   ```sh
   node server.js
   ```
-  It will give resent top movie form IMDB top chart to console log.
+ It will give recent top movie from IMDB top chart to console log.
   
 # TO-DO
   - save result to file 
